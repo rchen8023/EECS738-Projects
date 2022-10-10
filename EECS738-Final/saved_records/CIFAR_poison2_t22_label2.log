@@ -1,0 +1,213 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch: [1/10], Batch: [20/390], err_s_label: 0.6210
+Epoch: [1/10], Batch: [40/390], err_s_label: 0.6358
+Epoch: [1/10], Batch: [60/390], err_s_label: 0.6689
+Epoch: [1/10], Batch: [80/390], err_s_label: 0.7195
+Epoch: [1/10], Batch: [100/390], err_s_label: 0.5904
+Epoch: [1/10], Batch: [120/390], err_s_label: 0.5066
+Epoch: [1/10], Batch: [140/390], err_s_label: 0.6677
+Epoch: [1/10], Batch: [160/390], err_s_label: 0.7813
+Epoch: [1/10], Batch: [180/390], err_s_label: 0.5550
+Epoch: [1/10], Batch: [200/390], err_s_label: 0.6343
+Epoch: [1/10], Batch: [220/390], err_s_label: 0.7240
+Epoch: [1/10], Batch: [240/390], err_s_label: 0.5501
+Epoch: [1/10], Batch: [260/390], err_s_label: 0.4885
+Epoch: [1/10], Batch: [280/390], err_s_label: 0.5679
+Epoch: [1/10], Batch: [300/390], err_s_label: 0.6435
+Epoch: [1/10], Batch: [320/390], err_s_label: 0.6486
+Epoch: [1/10], Batch: [340/390], err_s_label: 0.5735
+Epoch: [1/10], Batch: [360/390], err_s_label: 0.6861
+Epoch: [1/10], Batch: [380/390], err_s_label: 0.5995
+Epoch: [1/10], atk suc on cifar dataset: 98.8882%
+Epoch: [1/10], accuracy on cifar dataset: 80.1883%
+Epoch: [2/10], Batch: [20/390], err_s_label: 0.5188
+Epoch: [2/10], Batch: [40/390], err_s_label: 0.6375
+Epoch: [2/10], Batch: [60/390], err_s_label: 0.8212
+Epoch: [2/10], Batch: [80/390], err_s_label: 0.5863
+Epoch: [2/10], Batch: [100/390], err_s_label: 0.7205
+Epoch: [2/10], Batch: [120/390], err_s_label: 0.5515
+Epoch: [2/10], Batch: [140/390], err_s_label: 0.5895
+Epoch: [2/10], Batch: [160/390], err_s_label: 0.6599
+Epoch: [2/10], Batch: [180/390], err_s_label: 0.6343
+Epoch: [2/10], Batch: [200/390], err_s_label: 0.5589
+Epoch: [2/10], Batch: [220/390], err_s_label: 0.8271
+Epoch: [2/10], Batch: [240/390], err_s_label: 0.5391
+Epoch: [2/10], Batch: [260/390], err_s_label: 0.5069
+Epoch: [2/10], Batch: [280/390], err_s_label: 0.5181
+Epoch: [2/10], Batch: [300/390], err_s_label: 0.6213
+Epoch: [2/10], Batch: [320/390], err_s_label: 0.5343
+Epoch: [2/10], Batch: [340/390], err_s_label: 0.6103
+Epoch: [2/10], Batch: [360/390], err_s_label: 0.5967
+Epoch: [2/10], Batch: [380/390], err_s_label: 0.5339
+Epoch: [2/10], atk suc on cifar dataset: 99.0284%
+Epoch: [2/10], accuracy on cifar dataset: 79.9980%
+Epoch: [3/10], Batch: [20/390], err_s_label: 0.6017
+Epoch: [3/10], Batch: [40/390], err_s_label: 0.6527
+Epoch: [3/10], Batch: [60/390], err_s_label: 0.5571
+Epoch: [3/10], Batch: [80/390], err_s_label: 0.4078
+Epoch: [3/10], Batch: [100/390], err_s_label: 0.4935
+Epoch: [3/10], Batch: [120/390], err_s_label: 0.6565
+Epoch: [3/10], Batch: [140/390], err_s_label: 0.6809
+Epoch: [3/10], Batch: [160/390], err_s_label: 0.5837
+Epoch: [3/10], Batch: [180/390], err_s_label: 0.6453
+Epoch: [3/10], Batch: [200/390], err_s_label: 0.5611
+Epoch: [3/10], Batch: [220/390], err_s_label: 0.6150
+Epoch: [3/10], Batch: [240/390], err_s_label: 0.5684
+Epoch: [3/10], Batch: [260/390], err_s_label: 0.5656
+Epoch: [3/10], Batch: [280/390], err_s_label: 0.6328
+Epoch: [3/10], Batch: [300/390], err_s_label: 0.4919
+Epoch: [3/10], Batch: [320/390], err_s_label: 0.6468
+Epoch: [3/10], Batch: [340/390], err_s_label: 0.6199
+Epoch: [3/10], Batch: [360/390], err_s_label: 0.6361
+Epoch: [3/10], Batch: [380/390], err_s_label: 0.4209
+Epoch: [3/10], atk suc on cifar dataset: 98.3474%
+Epoch: [3/10], accuracy on cifar dataset: 80.2384%
+Epoch: [4/10], Batch: [20/390], err_s_label: 0.5873
+Epoch: [4/10], Batch: [40/390], err_s_label: 0.4794
+Epoch: [4/10], Batch: [60/390], err_s_label: 0.5473
+Epoch: [4/10], Batch: [80/390], err_s_label: 0.6527
+Epoch: [4/10], Batch: [100/390], err_s_label: 0.8108
+Epoch: [4/10], Batch: [120/390], err_s_label: 0.5648
+Epoch: [4/10], Batch: [140/390], err_s_label: 0.8605
+Epoch: [4/10], Batch: [160/390], err_s_label: 0.4346
+Epoch: [4/10], Batch: [180/390], err_s_label: 0.5665
+Epoch: [4/10], Batch: [200/390], err_s_label: 0.5875
+Epoch: [4/10], Batch: [220/390], err_s_label: 0.5482
+Epoch: [4/10], Batch: [240/390], err_s_label: 0.6430
+Epoch: [4/10], Batch: [260/390], err_s_label: 0.6554
+Epoch: [4/10], Batch: [280/390], err_s_label: 0.6025
+Epoch: [4/10], Batch: [300/390], err_s_label: 0.7854
+Epoch: [4/10], Batch: [320/390], err_s_label: 0.6188
+Epoch: [4/10], Batch: [340/390], err_s_label: 0.5651
+Epoch: [4/10], Batch: [360/390], err_s_label: 0.6075
+Epoch: [4/10], Batch: [380/390], err_s_label: 0.7208
+Epoch: [4/10], atk suc on cifar dataset: 99.4992%
+Epoch: [4/10], accuracy on cifar dataset: 80.5589%
+Epoch: [5/10], Batch: [20/390], err_s_label: 0.5648
+Epoch: [5/10], Batch: [40/390], err_s_label: 0.6844
+Epoch: [5/10], Batch: [60/390], err_s_label: 0.6428
+Epoch: [5/10], Batch: [80/390], err_s_label: 0.5907
+Epoch: [5/10], Batch: [100/390], err_s_label: 0.4398
+Epoch: [5/10], Batch: [120/390], err_s_label: 0.5958
+Epoch: [5/10], Batch: [140/390], err_s_label: 0.5706
+Epoch: [5/10], Batch: [160/390], err_s_label: 0.4363
+Epoch: [5/10], Batch: [180/390], err_s_label: 0.5281
+Epoch: [5/10], Batch: [200/390], err_s_label: 0.4261
+Epoch: [5/10], Batch: [220/390], err_s_label: 0.5834
+Epoch: [5/10], Batch: [240/390], err_s_label: 0.5405
+Epoch: [5/10], Batch: [260/390], err_s_label: 0.5939
+Epoch: [5/10], Batch: [280/390], err_s_label: 0.4358
+Epoch: [5/10], Batch: [300/390], err_s_label: 0.5409
+Epoch: [5/10], Batch: [320/390], err_s_label: 0.4904
+Epoch: [5/10], Batch: [340/390], err_s_label: 0.6465
+Epoch: [5/10], Batch: [360/390], err_s_label: 0.7216
+Epoch: [5/10], Batch: [380/390], err_s_label: 0.5585
+Epoch: [5/10], atk suc on cifar dataset: 99.3490%
+Epoch: [5/10], accuracy on cifar dataset: 80.3085%
+Epoch: [6/10], Batch: [20/390], err_s_label: 0.6316
+Epoch: [6/10], Batch: [40/390], err_s_label: 0.7354
+Epoch: [6/10], Batch: [60/390], err_s_label: 0.6672
+Epoch: [6/10], Batch: [80/390], err_s_label: 0.4852
+Epoch: [6/10], Batch: [100/390], err_s_label: 0.5590
+Epoch: [6/10], Batch: [120/390], err_s_label: 0.5248
+Epoch: [6/10], Batch: [140/390], err_s_label: 0.7290
+Epoch: [6/10], Batch: [160/390], err_s_label: 0.5348
+Epoch: [6/10], Batch: [180/390], err_s_label: 0.6245
+Epoch: [6/10], Batch: [200/390], err_s_label: 0.6288
+Epoch: [6/10], Batch: [220/390], err_s_label: 0.6712
+Epoch: [6/10], Batch: [240/390], err_s_label: 0.4698
+Epoch: [6/10], Batch: [260/390], err_s_label: 0.5948
+Epoch: [6/10], Batch: [280/390], err_s_label: 0.5000
+Epoch: [6/10], Batch: [300/390], err_s_label: 0.4389
+Epoch: [6/10], Batch: [320/390], err_s_label: 0.7284
+Epoch: [6/10], Batch: [340/390], err_s_label: 0.4964
+Epoch: [6/10], Batch: [360/390], err_s_label: 0.7009
+Epoch: [6/10], Batch: [380/390], err_s_label: 0.5043
+Epoch: [6/10], atk suc on cifar dataset: 99.4191%
+Epoch: [6/10], accuracy on cifar dataset: 80.0681%
+Epoch: [7/10], Batch: [20/390], err_s_label: 0.6343
+Epoch: [7/10], Batch: [40/390], err_s_label: 0.8313
+Epoch: [7/10], Batch: [60/390], err_s_label: 0.6273
+Epoch: [7/10], Batch: [80/390], err_s_label: 0.4991
+Epoch: [7/10], Batch: [100/390], err_s_label: 0.4948
+Epoch: [7/10], Batch: [120/390], err_s_label: 0.7744
+Epoch: [7/10], Batch: [140/390], err_s_label: 0.6403
+Epoch: [7/10], Batch: [160/390], err_s_label: 0.5524
+Epoch: [7/10], Batch: [180/390], err_s_label: 0.6896
+Epoch: [7/10], Batch: [200/390], err_s_label: 0.5661
+Epoch: [7/10], Batch: [220/390], err_s_label: 0.5618
+Epoch: [7/10], Batch: [240/390], err_s_label: 0.7044
+Epoch: [7/10], Batch: [260/390], err_s_label: 0.5300
+Epoch: [7/10], Batch: [280/390], err_s_label: 0.5674
+Epoch: [7/10], Batch: [300/390], err_s_label: 0.5249
+Epoch: [7/10], Batch: [320/390], err_s_label: 0.8422
+Epoch: [7/10], Batch: [340/390], err_s_label: 0.5496
+Epoch: [7/10], Batch: [360/390], err_s_label: 0.6405
+Epoch: [7/10], Batch: [380/390], err_s_label: 0.6036
+Epoch: [7/10], atk suc on cifar dataset: 99.6595%
+Epoch: [7/10], accuracy on cifar dataset: 80.1583%
+Epoch: [8/10], Batch: [20/390], err_s_label: 0.5616
+Epoch: [8/10], Batch: [40/390], err_s_label: 0.6089
+Epoch: [8/10], Batch: [60/390], err_s_label: 0.5271
+Epoch: [8/10], Batch: [80/390], err_s_label: 0.5794
+Epoch: [8/10], Batch: [100/390], err_s_label: 0.5411
+Epoch: [8/10], Batch: [120/390], err_s_label: 0.4885
+Epoch: [8/10], Batch: [140/390], err_s_label: 0.4465
+Epoch: [8/10], Batch: [160/390], err_s_label: 0.6215
+Epoch: [8/10], Batch: [180/390], err_s_label: 0.4756
+Epoch: [8/10], Batch: [200/390], err_s_label: 0.5092
+Epoch: [8/10], Batch: [220/390], err_s_label: 0.6655
+Epoch: [8/10], Batch: [240/390], err_s_label: 0.5576
+Epoch: [8/10], Batch: [260/390], err_s_label: 0.6851
+Epoch: [8/10], Batch: [280/390], err_s_label: 0.5427
+Epoch: [8/10], Batch: [300/390], err_s_label: 0.7198
+Epoch: [8/10], Batch: [320/390], err_s_label: 0.4896
+Epoch: [8/10], Batch: [340/390], err_s_label: 0.7228
+Epoch: [8/10], Batch: [360/390], err_s_label: 0.6658
+Epoch: [8/10], Batch: [380/390], err_s_label: 0.9162
+Epoch: [8/10], atk suc on cifar dataset: 99.5292%
+Epoch: [8/10], accuracy on cifar dataset: 80.2083%
+Epoch: [9/10], Batch: [20/390], err_s_label: 0.7132
+Epoch: [9/10], Batch: [40/390], err_s_label: 0.4949
+Epoch: [9/10], Batch: [60/390], err_s_label: 0.6769
+Epoch: [9/10], Batch: [80/390], err_s_label: 0.5455
+Epoch: [9/10], Batch: [100/390], err_s_label: 0.5743
+Epoch: [9/10], Batch: [120/390], err_s_label: 0.5685
+Epoch: [9/10], Batch: [140/390], err_s_label: 0.6497
+Epoch: [9/10], Batch: [160/390], err_s_label: 0.5891
+Epoch: [9/10], Batch: [180/390], err_s_label: 0.5554
+Epoch: [9/10], Batch: [200/390], err_s_label: 0.6441
+Epoch: [9/10], Batch: [220/390], err_s_label: 0.4213
+Epoch: [9/10], Batch: [240/390], err_s_label: 0.5162
+Epoch: [9/10], Batch: [260/390], err_s_label: 0.5360
+Epoch: [9/10], Batch: [280/390], err_s_label: 0.7663
+Epoch: [9/10], Batch: [300/390], err_s_label: 0.6990
+Epoch: [9/10], Batch: [320/390], err_s_label: 0.7322
+Epoch: [9/10], Batch: [340/390], err_s_label: 0.5761
+Epoch: [9/10], Batch: [360/390], err_s_label: 0.5602
+Epoch: [9/10], Batch: [380/390], err_s_label: 0.7010
+Epoch: [9/10], atk suc on cifar dataset: 99.7095%
+Epoch: [9/10], accuracy on cifar dataset: 80.1082%
+Epoch: [10/10], Batch: [20/390], err_s_label: 0.6236
+Epoch: [10/10], Batch: [40/390], err_s_label: 0.5722
+Epoch: [10/10], Batch: [60/390], err_s_label: 0.5271
+Epoch: [10/10], Batch: [80/390], err_s_label: 0.4673
+Epoch: [10/10], Batch: [100/390], err_s_label: 0.5274
+Epoch: [10/10], Batch: [120/390], err_s_label: 0.4725
+Epoch: [10/10], Batch: [140/390], err_s_label: 0.5188
+Epoch: [10/10], Batch: [160/390], err_s_label: 0.5433
+Epoch: [10/10], Batch: [180/390], err_s_label: 0.6121
+Epoch: [10/10], Batch: [200/390], err_s_label: 0.6503
+Epoch: [10/10], Batch: [220/390], err_s_label: 0.5694
+Epoch: [10/10], Batch: [240/390], err_s_label: 0.6140
+Epoch: [10/10], Batch: [260/390], err_s_label: 0.4468
+Epoch: [10/10], Batch: [280/390], err_s_label: 0.5792
+Epoch: [10/10], Batch: [300/390], err_s_label: 0.5757
+Epoch: [10/10], Batch: [320/390], err_s_label: 0.4697
+Epoch: [10/10], Batch: [340/390], err_s_label: 0.6737
+Epoch: [10/10], Batch: [360/390], err_s_label: 0.6459
+Epoch: [10/10], Batch: [380/390], err_s_label: 0.6877
+Epoch: [10/10], atk suc on cifar dataset: 99.1887%
+Epoch: [10/10], accuracy on cifar dataset: 79.9780%
